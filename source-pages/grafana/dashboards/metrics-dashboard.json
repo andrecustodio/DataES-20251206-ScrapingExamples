@@ -1,0 +1,32 @@
+{
+  "title": "Playwright Scraping - Métricas",
+  "panels": [
+    {
+      "title": "Livros Extraídos por Segundo",
+      "targets": [
+        {
+          "expr": "books_scraped_per_second",
+          "legendFormat": "Livros/seg"
+        }
+      ]
+    },
+    {
+      "title": "Tempo de Carregamento de Página (p95)",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, page_load_time_seconds)",
+          "legendFormat": "p95"
+        }
+      ]
+    },
+    {
+      "title": "Total de Erros",
+      "targets": [
+        {
+          "expr": "sum(scraping_errors_total)",
+          "legendFormat": "Total de erros"
+        }
+      ]
+    }
+  ]
+}

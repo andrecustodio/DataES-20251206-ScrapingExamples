@@ -1,0 +1,92 @@
+version: '3.8'
+
+services:
+  # Servidor estático com grid HTML
+  static-grid:
+    build:
+      context: ./static-grid
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    container_name: static-grid-server
+    networks:
+      - scraping-network
+
+  # Aplicação Vue.js com backend integrado
+  vue-grid:
+    build:
+      context: ./vue-grid
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    container_name: vue-grid-app
+    volumes:
+      - ./vue-grid/data:/app/data:ro
+    environment:
+      - NODE_ENV=production
+    networks:
+      - scraping-network
+    depends_on:
+      - seq
+
+  # Seq - Logging e agregação de logs
+  seq:
+    image: datalust/seq:latest
+    ports:
+      - "5343:80"
+      - "5344:5341"
+    container_name: seq-logging
+    environment:
+      - ACCEPT_EULA=Y
+      - SEQ_FIRSTRUN_NOAUTHENTICATION=true
+    volumes:
+      - ../.container/seq:/data
+    networks:
+      - scraping-network
+
+  # Prometheus - Coleta e armazenamento de métricas
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    container_name: prometheus
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ../.container/prometheus:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+    networks:
+      - scraping-network
+
+  # Prometheus Pushgateway - Para receber métricas de jobs de curta duração
+  prometheus-pushgateway:
+    image: prom/pushgateway:latest
+    ports:
+      - "9091:9091"
+    container_name: prometheus-pushgateway
+    networks:
+      - scraping-network
+
+  # Grafana - Visualização e dashboards
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - "3001:3000"
+    container_name: grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - ../.container/grafana:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./grafana/dashboards:/var/lib/grafana/dashboards:ro
+    networks:
+      - scraping-network
+    depends_on:
+      - prometheus
+
+networks:
+  scraping-network:
+    driver: bridge
+

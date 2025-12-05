@@ -1,0 +1,21 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  # Prometheus próprio
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  # Pushgateway
+  - job_name: 'pushgateway'
+    static_configs:
+      - targets: ['prometheus-pushgateway:9091']
+
+  # Jobs de scraping (métricas enviadas via Pushgateway)
+  - job_name: 'playwright_scraping'
+    honor_labels: true
+    static_configs:
+      - targets: ['prometheus-pushgateway:9091']
+

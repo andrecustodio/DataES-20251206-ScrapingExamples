@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  vue-grid:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    container_name: vue-grid-app
+    volumes:
+      - ./data:/app/data:ro
+    environment:
+      - NODE_ENV=production
+
