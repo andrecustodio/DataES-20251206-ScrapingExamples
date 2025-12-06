@@ -1,0 +1,282 @@
+[
+  {
+    "key": "OL100000W",
+    "title": "Dom Casmurro",
+    "authors": [
+      {
+        "key": "/authors/OL50000A",
+        "name": "Machado de Assis"
+      }
+    ],
+    "isbn": [
+      "5127280864",
+      "9787876992116"
+    ],
+    "publish_date": "1899",
+    "number_of_pages": 256,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10000-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10000-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10000-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Dom Casmurro\u0027 de Machado de Assis. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1899.",
+    "first_sentence": "Primeira frase do livro \u0027Dom Casmurro\u0027 de Machado de Assis.",
+    "language": "por"
+  },
+  {
+    "key": "OL100001W",
+    "title": "Mem\u00F3rias P\u00F3stumas de Br\u00E1s Cubas",
+    "authors": [
+      {
+        "key": "/authors/OL50001A",
+        "name": "Machado de Assis"
+      }
+    ],
+    "isbn": [
+      "1542731955",
+      "9785894242086"
+    ],
+    "publish_date": "1881",
+    "number_of_pages": 240,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10001-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10001-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10001-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Mem\u00F3rias P\u00F3stumas de Br\u00E1s Cubas\u0027 de Machado de Assis. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1881.",
+    "first_sentence": "Primeira frase do livro \u0027Mem\u00F3rias P\u00F3stumas de Br\u00E1s Cubas\u0027 de Machado de Assis.",
+    "language": "por"
+  },
+  {
+    "key": "OL100002W",
+    "title": "Quincas Borba",
+    "authors": [
+      {
+        "key": "/authors/OL50002A",
+        "name": "Machado de Assis"
+      }
+    ],
+    "isbn": [
+      "7462911425",
+      "9788304970346"
+    ],
+    "publish_date": "1891",
+    "number_of_pages": 288,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10002-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10002-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10002-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Quincas Borba\u0027 de Machado de Assis. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1891.",
+    "first_sentence": "Primeira frase do livro \u0027Quincas Borba\u0027 de Machado de Assis.",
+    "language": "por"
+  },
+  {
+    "key": "OL100003W",
+    "title": "O Alienista",
+    "authors": [
+      {
+        "key": "/authors/OL50003A",
+        "name": "Machado de Assis"
+      }
+    ],
+    "isbn": [
+      "9129035057",
+      "9789641847096"
+    ],
+    "publish_date": "1882",
+    "number_of_pages": 96,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10003-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10003-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10003-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Alienista\u0027 de Machado de Assis. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1882.",
+    "first_sentence": "Primeira frase do livro \u0027O Alienista\u0027 de Machado de Assis.",
+    "language": "por"
+  },
+  {
+    "key": "OL100004W",
+    "title": "A Cartomante",
+    "authors": [
+      {
+        "key": "/authors/OL50004A",
+        "name": "Machado de Assis"
+      }
+    ],
+    "isbn": [
+      "7457151168",
+      "9785684372525"
+    ],
+    "publish_date": "1884",
+    "number_of_pages": 64,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10004-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10004-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10004-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Cartomante\u0027 de Machado de Assis. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1884.",
+    "first_sentence": "Primeira frase do livro \u0027A Cartomante\u0027 de Machado de Assis.",
+    "language": "por"
+  },
+  {
+    "key": "OL100005W",
+    "title": "O Primo Bas\u00EDlio",
+    "authors": [
+      {
+        "key": "/authors/OL50005A",
+        "name": "E\u00E7a de Queir\u00F3s"
+      }
+    ],
+    "isbn": [
+      "4416167252",
+      "9788128186597"
+    ],
+    "publish_date": "1878",
+    "number_of_pages": 400,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10005-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10005-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10005-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Portuguese Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Primo Bas\u00EDlio\u0027 de E\u00E7a de Queir\u00F3s. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1878.",
+    "first_sentence": "Primeira frase do livro \u0027O Primo Bas\u00EDlio\u0027 de E\u00E7a de Queir\u00F3s.",
+    "language": "por"
+  },
+  {
+    "key": "OL100006W",
+    "title": "Os Maias",
+    "authors": [
+      {
+        "key": "/authors/OL50006A",
+        "name": "E\u00E7a de Queir\u00F3s"
+      }
+    ],
+    "isbn": [
+      "9892133951",
+      "9787651203013"
+    ],
+    "publish_date": "1888",
+    "number_of_pages": 600,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10006-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10006-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10006-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Portuguese Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Os Maias\u0027 de E\u00E7a de Queir\u00F3s. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1888.",
+    "first_sentence": "Primeira frase do livro \u0027Os Maias\u0027 de E\u00E7a de Queir\u00F3s.",
+    "language": "por"
+  },
+  {
+    "key": "OL100007W",
+    "title": "A Cidade e as Serras",
+    "authors": [
+      {
+        "key": "/authors/OL50007A",
+        "name": "E\u00E7a de Queir\u00F3s"
+      }
+    ],
+    "isbn": [
+      "4771432974",
+      "9783966338579"
+    ],
+    "publish_date": "1901",
+    "number_of_pages": 320,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10007-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10007-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10007-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Portuguese Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Cidade e as Serras\u0027 de E\u00E7a de Queir\u00F3s. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1901.",
+    "first_sentence": "Primeira frase do livro \u0027A Cidade e as Serras\u0027 de E\u00E7a de Queir\u00F3s.",
+    "language": "por"
+  },
+  {
+    "key": "OL100008W",
+    "title": "O Corti\u00E7o",
+    "authors": [
+      {
+        "key": "/authors/OL50008A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "3415321631",
+      "9789609692867"
+    ],
+    "publish_date": "1890",
+    "number_of_pages": 256,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10008-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10008-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10008-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Corti\u00E7o\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1890.",
+    "first_sentence": "Primeira frase do livro \u0027O Corti\u00E7o\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100009W",
+    "title": "O Mulato",
+    "authors": [
+      {
+        "key": "/authors/OL50009A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "7441577544",
+      "9782462851638"
+    ],
+    "publish_date": "1881",
+    "number_of_pages": 280,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10009-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10009-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10009-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Mulato\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1881.",
+    "first_sentence": "Primeira frase do livro \u0027O Mulato\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "key": "OL100030W",
+    "title": "O Auto da Compadecida",
+    "authors": [
+      {
+        "key": "/authors/OL50030A",
+        "name": "Ariano Suassuna"
+      }
+    ],
+    "isbn": [
+      "6772911060",
+      "9788877081485"
+    ],
+    "publish_date": "1955",
+    "number_of_pages": 150,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10030-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10030-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10030-L.jpg"
+    },
+    "subjects": [
+      "Drama",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Auto da Compadecida\u0027 de Ariano Suassuna. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1955.",
+    "first_sentence": "Primeira frase do livro \u0027O Auto da Compadecida\u0027 de Ariano Suassuna.",
+    "language": "por"
+  },
+  {
+    "key": "OL100031W",
+    "title": "A Pedra do Reino",
+    "authors": [
+      {
+        "key": "/authors/OL50031A",
+        "name": "Ariano Suassuna"
+      }
+    ],
+    "isbn": [
+      "6092378820",
+      "9781945557719"
+    ],
+    "publish_date": "1971",
+    "number_of_pages": 600,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10031-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10031-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10031-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Pedra do Reino\u0027 de Ariano Suassuna. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1971.",
+    "first_sentence": "Primeira frase do livro \u0027A Pedra do Reino\u0027 de Ariano Suassuna.",
+    "language": "por"
+  },
+  {
+    "key": "OL100032W",
+    "title": "O Sertanejo",
+    "authors": [
+      {
+        "key": "/authors/OL50032A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "8852121219",
+      "9782654481265"
+    ],
+    "publish_date": "1875",
+    "number_of_pages": 350,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10032-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10032-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10032-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Sertanejo\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1875.",
+    "first_sentence": "Primeira frase do livro \u0027O Sertanejo\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100033W",
+    "title": "Luc\u00EDola",
+    "authors": [
+      {
+        "key": "/authors/OL50033A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "1204324978",
+      "9787582298081"
+    ],
+    "publish_date": "1862",
+    "number_of_pages": 280,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10033-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10033-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10033-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Luc\u00EDola\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1862.",
+    "first_sentence": "Primeira frase do livro \u0027Luc\u00EDola\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100034W",
+    "title": "A Moreninha",
+    "authors": [
+      {
+        "key": "/authors/OL50034A",
+        "name": "Joaquim Manuel de Macedo"
+      }
+    ],
+    "isbn": [
+      "7608640188",
+      "9787386855062"
+    ],
+    "publish_date": "1844",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10034-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10034-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10034-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Moreninha\u0027 de Joaquim Manuel de Macedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1844.",
+    "first_sentence": "Primeira frase do livro \u0027A Moreninha\u0027 de Joaquim Manuel de Macedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100035W",
+    "title": "O Seminarista",
+    "authors": [
+      {
+        "key": "/authors/OL50035A",
+        "name": "Bernardo Guimar\u00E3es"
+      }
+    ],
+    "isbn": [
+      "4683569676",
+      "9786757522478"
+    ],
+    "publish_date": "1872",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10035-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10035-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10035-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Seminarista\u0027 de Bernardo Guimar\u00E3es. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1872.",
+    "first_sentence": "Primeira frase do livro \u0027O Seminarista\u0027 de Bernardo Guimar\u00E3es.",
+    "language": "por"
+  },
+  {
+    "key": "OL100036W",
+    "title": "A Escrava Isaura",
+    "authors": [
+      {
+        "key": "/authors/OL50036A",
+        "name": "Bernardo Guimar\u00E3es"
+      }
+    ],
+    "isbn": [
+      "3652785576",
+      "9783652837204"
+    ],
+    "publish_date": "1875",
+    "number_of_pages": 300,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10036-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10036-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10036-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Escrava Isaura\u0027 de Bernardo Guimar\u00E3es. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1875.",
+    "first_sentence": "Primeira frase do livro \u0027A Escrava Isaura\u0027 de Bernardo Guimar\u00E3es.",
+    "language": "por"
+  },
+  {
+    "key": "OL100037W",
+    "title": "O Triste Fim de Policarpo Quaresma",
+    "authors": [
+      {
+        "key": "/authors/OL50037A",
+        "name": "Lima Barreto"
+      }
+    ],
+    "isbn": [
+      "2795712793",
+      "9782139981751"
+    ],
+    "publish_date": "1915",
+    "number_of_pages": 350,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10037-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10037-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10037-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Triste Fim de Policarpo Quaresma\u0027 de Lima Barreto. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1915.",
+    "first_sentence": "Primeira frase do livro \u0027O Triste Fim de Policarpo Quaresma\u0027 de Lima Barreto.",
+    "language": "por"
+  },
+  {
+    "key": "OL100038W",
+    "title": "Clara dos Anjos",
+    "authors": [
+      {
+        "key": "/authors/OL50038A",
+        "name": "Lima Barreto"
+      }
+    ],
+    "isbn": [
+      "4933886915",
+      "9781944081300"
+    ],
+    "publish_date": "1948",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10038-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10038-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10038-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Clara dos Anjos\u0027 de Lima Barreto. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1948.",
+    "first_sentence": "Primeira frase do livro \u0027Clara dos Anjos\u0027 de Lima Barreto.",
+    "language": "por"
+  },
+  {
+    "key": "OL100039W",
+    "title": "Recorda\u00E7\u00F5es do Escriv\u00E3o Isa\u00EDas Caminha",
+    "authors": [
+      {
+        "key": "/authors/OL50039A",
+        "name": "Lima Barreto"
+      }
+    ],
+    "isbn": [
+      "6680794680",
+      "9782370820210"
+    ],
+    "publish_date": "1909",
+    "number_of_pages": 280,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10039-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10039-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10039-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Recorda\u00E7\u00F5es do Escriv\u00E3o Isa\u00EDas Caminha\u0027 de Lima Barreto. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1909.",
+    "first_sentence": "Primeira frase do livro \u0027Recorda\u00E7\u00F5es do Escriv\u00E3o Isa\u00EDas Caminha\u0027 de Lima Barreto.",
+    "language": "por"
+  }
+]

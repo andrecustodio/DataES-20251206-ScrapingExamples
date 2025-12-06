@@ -1,0 +1,286 @@
+[
+  {
+    "key": "OL100010W",
+    "title": "O Guarani",
+    "authors": [
+      {
+        "key": "/authors/OL50010A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "3617946079",
+      "9785158402762"
+    ],
+    "publish_date": "1857",
+    "number_of_pages": 400,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10010-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10010-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10010-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Guarani\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1857.",
+    "first_sentence": "Primeira frase do livro \u0027O Guarani\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100011W",
+    "title": "Iracema",
+    "authors": [
+      {
+        "key": "/authors/OL50011A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "5188559402",
+      "9781189709463"
+    ],
+    "publish_date": "1865",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10011-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10011-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10011-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Iracema\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1865.",
+    "first_sentence": "Primeira frase do livro \u0027Iracema\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100012W",
+    "title": "Senhora",
+    "authors": [
+      {
+        "key": "/authors/OL50012A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "6968529778",
+      "9783264059095"
+    ],
+    "publish_date": "1875",
+    "number_of_pages": 300,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10012-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10012-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10012-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Senhora\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1875.",
+    "first_sentence": "Primeira frase do livro \u0027Senhora\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100013W",
+    "title": "O Tempo e o Vento",
+    "authors": [
+      {
+        "key": "/authors/OL50013A",
+        "name": "Erico Verissimo"
+      }
+    ],
+    "isbn": [
+      "8816541460",
+      "9786004679582"
+    ],
+    "publish_date": "1949",
+    "number_of_pages": 800,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10013-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10013-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10013-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Historical Fiction"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Tempo e o Vento\u0027 de Erico Verissimo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1949.",
+    "first_sentence": "Primeira frase do livro \u0027O Tempo e o Vento\u0027 de Erico Verissimo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100014W",
+    "title": "Claro Enigma",
+    "authors": [
+      {
+        "key": "/authors/OL50014A",
+        "name": "Carlos Drummond de Andrade"
+      }
+    ],
+    "isbn": [
+      "7501207770",
+      "9785121238866"
+    ],
+    "publish_date": "1951",
+    "number_of_pages": 150,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10014-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10014-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10014-L.jpg"
+    },
+    "subjects": [
+      "Poetry",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Claro Enigma\u0027 de Carlos Drummond de Andrade. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1951.",
+    "first_sentence": "Primeira frase do livro \u0027Claro Enigma\u0027 de Carlos Drummond de Andrade.",
+    "language": "por"
+  },
+  {
+    "key": "OL100015W",
+    "title": "Grande Sert\u00E3o: Veredas",
+    "authors": [
+      {
+        "key": "/authors/OL50015A",
+        "name": "Jo\u00E3o Guimar\u00E3es Rosa"
+      }
+    ],
+    "isbn": [
+      "5527029551",
+      "9786619100026"
+    ],
+    "publish_date": "1956",
+    "number_of_pages": 600,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10015-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10015-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10015-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Grande Sert\u00E3o: Veredas\u0027 de Jo\u00E3o Guimar\u00E3es Rosa. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1956.",
+    "first_sentence": "Primeira frase do livro \u0027Grande Sert\u00E3o: Veredas\u0027 de Jo\u00E3o Guimar\u00E3es Rosa.",
+    "language": "por"
+  },
+  {
+    "key": "OL100016W",
+    "title": "Sagarana",
+    "authors": [
+      {
+        "key": "/authors/OL50016A",
+        "name": "Jo\u00E3o Guimar\u00E3es Rosa"
+      }
+    ],
+    "isbn": [
+      "9005707484",
+      "9782535578345"
+    ],
+    "publish_date": "1946",
+    "number_of_pages": 300,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10016-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10016-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10016-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Sagarana\u0027 de Jo\u00E3o Guimar\u00E3es Rosa. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1946.",
+    "first_sentence": "Primeira frase do livro \u0027Sagarana\u0027 de Jo\u00E3o Guimar\u00E3es Rosa.",
+    "language": "por"
+  },
+  {
+    "key": "OL100017W",
+    "title": "Vidas Secas",
+    "authors": [
+      {
+        "key": "/authors/OL50017A",
+        "name": "Graciliano Ramos"
+      }
+    ],
+    "isbn": [
+      "8510499498",
+      "9785696069713"
+    ],
+    "publish_date": "1938",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10017-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10017-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10017-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Vidas Secas\u0027 de Graciliano Ramos. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1938.",
+    "first_sentence": "Primeira frase do livro \u0027Vidas Secas\u0027 de Graciliano Ramos.",
+    "language": "por"
+  },
+  {
+    "key": "OL100018W",
+    "title": "S\u00E3o Bernardo",
+    "authors": [
+      {
+        "key": "/authors/OL50018A",
+        "name": "Graciliano Ramos"
+      }
+    ],
+    "isbn": [
+      "5622268838",
+      "9789031752812"
+    ],
+    "publish_date": "1934",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10018-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10018-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10018-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027S\u00E3o Bernardo\u0027 de Graciliano Ramos. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1934.",
+    "first_sentence": "Primeira frase do livro \u0027S\u00E3o Bernardo\u0027 de Graciliano Ramos.",
+    "language": "por"
+  },
+  {
+    "key": "OL100019W",
+    "title": "Ang\u00FAstia",
+    "authors": [
+      {
+        "key": "/authors/OL50019A",
+        "name": "Graciliano Ramos"
+      }
+    ],
+    "isbn": [
+      "9735870044",
+      "9784013037975"
+    ],
+    "publish_date": "1936",
+    "number_of_pages": 220,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10019-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10019-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10019-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Ang\u00FAstia\u0027 de Graciliano Ramos. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1936.",
+    "first_sentence": "Primeira frase do livro \u0027Ang\u00FAstia\u0027 de Graciliano Ramos.",
+    "language": "por"
+  }
+]

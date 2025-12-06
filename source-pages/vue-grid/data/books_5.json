@@ -1,0 +1,285 @@
+[
+  {
+    "key": "OL100040W",
+    "title": "O Ateneu",
+    "authors": [
+      {
+        "key": "/authors/OL50040A",
+        "name": "Raul Pomp\u00E9ia"
+      }
+    ],
+    "isbn": [
+      "6161493709",
+      "9782012641631"
+    ],
+    "publish_date": "1888",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10040-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10040-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10040-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Ateneu\u0027 de Raul Pomp\u00E9ia. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1888.",
+    "first_sentence": "Primeira frase do livro \u0027O Ateneu\u0027 de Raul Pomp\u00E9ia.",
+    "language": "por"
+  },
+  {
+    "key": "OL100041W",
+    "title": "O Mulato",
+    "authors": [
+      {
+        "key": "/authors/OL50041A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "2291937062",
+      "9785296168486"
+    ],
+    "publish_date": "1881",
+    "number_of_pages": 280,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10041-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10041-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10041-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Mulato\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1881.",
+    "first_sentence": "Primeira frase do livro \u0027O Mulato\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100042W",
+    "title": "Casa de Pens\u00E3o",
+    "authors": [
+      {
+        "key": "/authors/OL50042A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "4020623381",
+      "9788893013230"
+    ],
+    "publish_date": "1884",
+    "number_of_pages": 320,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10042-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10042-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10042-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Casa de Pens\u00E3o\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1884.",
+    "first_sentence": "Primeira frase do livro \u0027Casa de Pens\u00E3o\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100043W",
+    "title": "O Homem",
+    "authors": [
+      {
+        "key": "/authors/OL50043A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "8265509174",
+      "9786570892957"
+    ],
+    "publish_date": "1887",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10043-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10043-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10043-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Homem\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1887.",
+    "first_sentence": "Primeira frase do livro \u0027O Homem\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100044W",
+    "title": "A Normalista",
+    "authors": [
+      {
+        "key": "/authors/OL50044A",
+        "name": "Adolfo Caminha"
+      }
+    ],
+    "isbn": [
+      "3722596305",
+      "9788339616346"
+    ],
+    "publish_date": "1893",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10044-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10044-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10044-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Normalista\u0027 de Adolfo Caminha. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1893.",
+    "first_sentence": "Primeira frase do livro \u0027A Normalista\u0027 de Adolfo Caminha.",
+    "language": "por"
+  },
+  {
+    "key": "OL100045W",
+    "title": "Bom-Crioulo",
+    "authors": [
+      {
+        "key": "/authors/OL50045A",
+        "name": "Adolfo Caminha"
+      }
+    ],
+    "isbn": [
+      "6314669006",
+      "9786788522537"
+    ],
+    "publish_date": "1895",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10045-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10045-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10045-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Bom-Crioulo\u0027 de Adolfo Caminha. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1895.",
+    "first_sentence": "Primeira frase do livro \u0027Bom-Crioulo\u0027 de Adolfo Caminha.",
+    "language": "por"
+  },
+  {
+    "key": "OL100046W",
+    "title": "O Mission\u00E1rio",
+    "authors": [
+      {
+        "key": "/authors/OL50046A",
+        "name": "Ingl\u00EAs de Sousa"
+      }
+    ],
+    "isbn": [
+      "8566554032",
+      "9788315571269"
+    ],
+    "publish_date": "1888",
+    "number_of_pages": 400,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10046-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10046-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10046-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Mission\u00E1rio\u0027 de Ingl\u00EAs de Sousa. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1888.",
+    "first_sentence": "Primeira frase do livro \u0027O Mission\u00E1rio\u0027 de Ingl\u00EAs de Sousa.",
+    "language": "por"
+  },
+  {
+    "key": "OL100047W",
+    "title": "O Guarani",
+    "authors": [
+      {
+        "key": "/authors/OL50047A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "3496512953",
+      "9783505080871"
+    ],
+    "publish_date": "1857",
+    "number_of_pages": 400,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10047-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10047-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10047-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Guarani\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1857.",
+    "first_sentence": "Primeira frase do livro \u0027O Guarani\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100048W",
+    "title": "Iracema",
+    "authors": [
+      {
+        "key": "/authors/OL50048A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "9149668129",
+      "9787011047293"
+    ],
+    "publish_date": "1865",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10048-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10048-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10048-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Iracema\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1865.",
+    "first_sentence": "Primeira frase do livro \u0027Iracema\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100049W",
+    "title": "Senhora",
+    "authors": [
+      {
+        "key": "/authors/OL50049A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "3737707457",
+      "9783777479042"
+    ],
+    "publish_date": "1875",
+    "number_of_pages": 300,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10049-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10049-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10049-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Senhora\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1875.",
+    "first_sentence": "Primeira frase do livro \u0027Senhora\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  }
+]

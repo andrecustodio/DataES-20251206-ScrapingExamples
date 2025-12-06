@@ -1,0 +1,282 @@
+[
+  {
+    "key": "OL100020W",
+    "title": "Macuna\u00EDma",
+    "authors": [
+      {
+        "key": "/authors/OL50020A",
+        "name": "M\u00E1rio de Andrade"
+      }
+    ],
+    "isbn": [
+      "7063022038",
+      "9787776068103"
+    ],
+    "publish_date": "1928",
+    "number_of_pages": 180,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10020-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10020-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10020-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Macuna\u00EDma\u0027 de M\u00E1rio de Andrade. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1928.",
+    "first_sentence": "Primeira frase do livro \u0027Macuna\u00EDma\u0027 de M\u00E1rio de Andrade.",
+    "language": "por"
+  },
+  {
+    "key": "OL100021W",
+    "title": "Amar, Verbo Intransitivo",
+    "authors": [
+      {
+        "key": "/authors/OL50021A",
+        "name": "M\u00E1rio de Andrade"
+      }
+    ],
+    "isbn": [
+      "2731416839",
+      "9787850603366"
+    ],
+    "publish_date": "1927",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10021-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10021-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10021-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Amar, Verbo Intransitivo\u0027 de M\u00E1rio de Andrade. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1927.",
+    "first_sentence": "Primeira frase do livro \u0027Amar, Verbo Intransitivo\u0027 de M\u00E1rio de Andrade.",
+    "language": "por"
+  },
+  {
+    "key": "OL100022W",
+    "title": "O Quinze",
+    "authors": [
+      {
+        "key": "/authors/OL50022A",
+        "name": "Rachel de Queiroz"
+      }
+    ],
+    "isbn": [
+      "5493160603",
+      "9786458122866"
+    ],
+    "publish_date": "1930",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10022-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10022-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10022-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Quinze\u0027 de Rachel de Queiroz. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1930.",
+    "first_sentence": "Primeira frase do livro \u0027O Quinze\u0027 de Rachel de Queiroz.",
+    "language": "por"
+  },
+  {
+    "key": "OL100023W",
+    "title": "Dona Flor e Seus Dois Maridos",
+    "authors": [
+      {
+        "key": "/authors/OL50023A",
+        "name": "Jorge Amado"
+      }
+    ],
+    "isbn": [
+      "9336192322",
+      "9784317712361"
+    ],
+    "publish_date": "1966",
+    "number_of_pages": 500,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10023-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10023-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10023-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Dona Flor e Seus Dois Maridos\u0027 de Jorge Amado. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1966.",
+    "first_sentence": "Primeira frase do livro \u0027Dona Flor e Seus Dois Maridos\u0027 de Jorge Amado.",
+    "language": "por"
+  },
+  {
+    "key": "OL100024W",
+    "title": "Capit\u00E3es da Areia",
+    "authors": [
+      {
+        "key": "/authors/OL50024A",
+        "name": "Jorge Amado"
+      }
+    ],
+    "isbn": [
+      "8143151913",
+      "9788942452803"
+    ],
+    "publish_date": "1937",
+    "number_of_pages": 350,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10024-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10024-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10024-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Capit\u00E3es da Areia\u0027 de Jorge Amado. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1937.",
+    "first_sentence": "Primeira frase do livro \u0027Capit\u00E3es da Areia\u0027 de Jorge Amado.",
+    "language": "por"
+  },
+  {
+    "key": "OL100025W",
+    "title": "Gabriela, Cravo e Canela",
+    "authors": [
+      {
+        "key": "/authors/OL50025A",
+        "name": "Jorge Amado"
+      }
+    ],
+    "isbn": [
+      "2368238901",
+      "9784823711036"
+    ],
+    "publish_date": "1958",
+    "number_of_pages": 400,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10025-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10025-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10025-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Gabriela, Cravo e Canela\u0027 de Jorge Amado. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1958.",
+    "first_sentence": "Primeira frase do livro \u0027Gabriela, Cravo e Canela\u0027 de Jorge Amado.",
+    "language": "por"
+  },
+  {
+    "key": "OL100026W",
+    "title": "A Hora da Estrela",
+    "authors": [
+      {
+        "key": "/authors/OL50026A",
+        "name": "Clarice Lispector"
+      }
+    ],
+    "isbn": [
+      "2803356059",
+      "9781482423613"
+    ],
+    "publish_date": "1977",
+    "number_of_pages": 120,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10026-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10026-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10026-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Hora da Estrela\u0027 de Clarice Lispector. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1977.",
+    "first_sentence": "Primeira frase do livro \u0027A Hora da Estrela\u0027 de Clarice Lispector.",
+    "language": "por"
+  },
+  {
+    "key": "OL100027W",
+    "title": "A Paix\u00E3o Segundo G.H.",
+    "authors": [
+      {
+        "key": "/authors/OL50027A",
+        "name": "Clarice Lispector"
+      }
+    ],
+    "isbn": [
+      "6926542590",
+      "9782321774667"
+    ],
+    "publish_date": "1964",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10027-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10027-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10027-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Paix\u00E3o Segundo G.H.\u0027 de Clarice Lispector. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1964.",
+    "first_sentence": "Primeira frase do livro \u0027A Paix\u00E3o Segundo G.H.\u0027 de Clarice Lispector.",
+    "language": "por"
+  },
+  {
+    "key": "OL100028W",
+    "title": "O Lustre",
+    "authors": [
+      {
+        "key": "/authors/OL50028A",
+        "name": "Clarice Lispector"
+      }
+    ],
+    "isbn": [
+      "4531752191",
+      "9787362460957"
+    ],
+    "publish_date": "1946",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10028-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10028-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10028-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Lustre\u0027 de Clarice Lispector. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1946.",
+    "first_sentence": "Primeira frase do livro \u0027O Lustre\u0027 de Clarice Lispector.",
+    "language": "por"
+  },
+  {
+    "key": "OL100029W",
+    "title": "A Ma\u00E7\u00E3 no Escuro",
+    "authors": [
+      {
+        "key": "/authors/OL50029A",
+        "name": "Clarice Lispector"
+      }
+    ],
+    "isbn": [
+      "7150544831",
+      "9789711642376"
+    ],
+    "publish_date": "1961",
+    "number_of_pages": 300,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10029-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10029-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10029-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Ma\u00E7\u00E3 no Escuro\u0027 de Clarice Lispector. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1961.",
+    "first_sentence": "Primeira frase do livro \u0027A Ma\u00E7\u00E3 no Escuro\u0027 de Clarice Lispector.",
+    "language": "por"
+  }
+]

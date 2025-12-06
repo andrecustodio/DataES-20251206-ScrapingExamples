@@ -1,0 +1,284 @@
+[
+  {
+    "key": "OL100050W",
+    "title": "O Sertanejo",
+    "authors": [
+      {
+        "key": "/authors/OL50050A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "2417349850",
+      "9785849407380"
+    ],
+    "publish_date": "1875",
+    "number_of_pages": 350,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10050-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10050-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10050-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Sertanejo\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1875.",
+    "first_sentence": "Primeira frase do livro \u0027O Sertanejo\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100051W",
+    "title": "Luc\u00EDola",
+    "authors": [
+      {
+        "key": "/authors/OL50051A",
+        "name": "Jos\u00E9 de Alencar"
+      }
+    ],
+    "isbn": [
+      "7990247267",
+      "9784602104931"
+    ],
+    "publish_date": "1862",
+    "number_of_pages": 280,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10051-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10051-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10051-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Luc\u00EDola\u0027 de Jos\u00E9 de Alencar. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1862.",
+    "first_sentence": "Primeira frase do livro \u0027Luc\u00EDola\u0027 de Jos\u00E9 de Alencar.",
+    "language": "por"
+  },
+  {
+    "key": "OL100052W",
+    "title": "A Moreninha",
+    "authors": [
+      {
+        "key": "/authors/OL50052A",
+        "name": "Joaquim Manuel de Macedo"
+      }
+    ],
+    "isbn": [
+      "1802775571",
+      "9782728060835"
+    ],
+    "publish_date": "1844",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10052-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10052-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10052-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature",
+      "Romance"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Moreninha\u0027 de Joaquim Manuel de Macedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1844.",
+    "first_sentence": "Primeira frase do livro \u0027A Moreninha\u0027 de Joaquim Manuel de Macedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100053W",
+    "title": "O Seminarista",
+    "authors": [
+      {
+        "key": "/authors/OL50053A",
+        "name": "Bernardo Guimar\u00E3es"
+      }
+    ],
+    "isbn": [
+      "2638492051",
+      "9782373621341"
+    ],
+    "publish_date": "1872",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10053-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10053-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10053-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Seminarista\u0027 de Bernardo Guimar\u00E3es. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1872.",
+    "first_sentence": "Primeira frase do livro \u0027O Seminarista\u0027 de Bernardo Guimar\u00E3es.",
+    "language": "por"
+  },
+  {
+    "key": "OL100054W",
+    "title": "A Escrava Isaura",
+    "authors": [
+      {
+        "key": "/authors/OL50054A",
+        "name": "Bernardo Guimar\u00E3es"
+      }
+    ],
+    "isbn": [
+      "3048762693",
+      "9787627481038"
+    ],
+    "publish_date": "1875",
+    "number_of_pages": 300,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10054-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10054-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10054-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Escrava Isaura\u0027 de Bernardo Guimar\u00E3es. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1875.",
+    "first_sentence": "Primeira frase do livro \u0027A Escrava Isaura\u0027 de Bernardo Guimar\u00E3es.",
+    "language": "por"
+  },
+  {
+    "key": "OL100055W",
+    "title": "O Triste Fim de Policarpo Quaresma",
+    "authors": [
+      {
+        "key": "/authors/OL50055A",
+        "name": "Lima Barreto"
+      }
+    ],
+    "isbn": [
+      "4434935167",
+      "9783885668941"
+    ],
+    "publish_date": "1915",
+    "number_of_pages": 350,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10055-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10055-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10055-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Triste Fim de Policarpo Quaresma\u0027 de Lima Barreto. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1915.",
+    "first_sentence": "Primeira frase do livro \u0027O Triste Fim de Policarpo Quaresma\u0027 de Lima Barreto.",
+    "language": "por"
+  },
+  {
+    "key": "OL100056W",
+    "title": "Clara dos Anjos",
+    "authors": [
+      {
+        "key": "/authors/OL50056A",
+        "name": "Lima Barreto"
+      }
+    ],
+    "isbn": [
+      "9593942408",
+      "9785204059665"
+    ],
+    "publish_date": "1948",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10056-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10056-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10056-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Clara dos Anjos\u0027 de Lima Barreto. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1948.",
+    "first_sentence": "Primeira frase do livro \u0027Clara dos Anjos\u0027 de Lima Barreto.",
+    "language": "por"
+  },
+  {
+    "key": "OL100057W",
+    "title": "Recorda\u00E7\u00F5es do Escriv\u00E3o Isa\u00EDas Caminha",
+    "authors": [
+      {
+        "key": "/authors/OL50057A",
+        "name": "Lima Barreto"
+      }
+    ],
+    "isbn": [
+      "2893511324",
+      "9788286560348"
+    ],
+    "publish_date": "1909",
+    "number_of_pages": 280,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10057-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10057-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10057-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Recorda\u00E7\u00F5es do Escriv\u00E3o Isa\u00EDas Caminha\u0027 de Lima Barreto. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1909.",
+    "first_sentence": "Primeira frase do livro \u0027Recorda\u00E7\u00F5es do Escriv\u00E3o Isa\u00EDas Caminha\u0027 de Lima Barreto.",
+    "language": "por"
+  },
+  {
+    "key": "OL100058W",
+    "title": "O Ateneu",
+    "authors": [
+      {
+        "key": "/authors/OL50058A",
+        "name": "Raul Pomp\u00E9ia"
+      }
+    ],
+    "isbn": [
+      "4529766043",
+      "9781844612873"
+    ],
+    "publish_date": "1888",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10058-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10058-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10058-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Ateneu\u0027 de Raul Pomp\u00E9ia. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1888.",
+    "first_sentence": "Primeira frase do livro \u0027O Ateneu\u0027 de Raul Pomp\u00E9ia.",
+    "language": "por"
+  },
+  {
+    "key": "OL100059W",
+    "title": "O Mulato",
+    "authors": [
+      {
+        "key": "/authors/OL50059A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "4161926522",
+      "9781996635289"
+    ],
+    "publish_date": "1881",
+    "number_of_pages": 280,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10059-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10059-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10059-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Mulato\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1881.",
+    "first_sentence": "Primeira frase do livro \u0027O Mulato\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  }
+]

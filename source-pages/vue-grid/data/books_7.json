@@ -1,0 +1,142 @@
+[
+  {
+    "key": "OL100060W",
+    "title": "Casa de Pens\u00E3o",
+    "authors": [
+      {
+        "key": "/authors/OL50060A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "3459612336",
+      "9782292355861"
+    ],
+    "publish_date": "1884",
+    "number_of_pages": 320,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10060-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10060-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10060-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Casa de Pens\u00E3o\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1884.",
+    "first_sentence": "Primeira frase do livro \u0027Casa de Pens\u00E3o\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100061W",
+    "title": "O Homem",
+    "authors": [
+      {
+        "key": "/authors/OL50061A",
+        "name": "Alu\u00EDsio Azevedo"
+      }
+    ],
+    "isbn": [
+      "5774714063",
+      "9781855973645"
+    ],
+    "publish_date": "1887",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10061-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10061-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10061-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Homem\u0027 de Alu\u00EDsio Azevedo. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1887.",
+    "first_sentence": "Primeira frase do livro \u0027O Homem\u0027 de Alu\u00EDsio Azevedo.",
+    "language": "por"
+  },
+  {
+    "key": "OL100062W",
+    "title": "A Normalista",
+    "authors": [
+      {
+        "key": "/authors/OL50062A",
+        "name": "Adolfo Caminha"
+      }
+    ],
+    "isbn": [
+      "8480561094",
+      "9789266469117"
+    ],
+    "publish_date": "1893",
+    "number_of_pages": 250,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10062-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10062-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10062-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027A Normalista\u0027 de Adolfo Caminha. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1893.",
+    "first_sentence": "Primeira frase do livro \u0027A Normalista\u0027 de Adolfo Caminha.",
+    "language": "por"
+  },
+  {
+    "key": "OL100063W",
+    "title": "Bom-Crioulo",
+    "authors": [
+      {
+        "key": "/authors/OL50063A",
+        "name": "Adolfo Caminha"
+      }
+    ],
+    "isbn": [
+      "2119549531",
+      "9789290223269"
+    ],
+    "publish_date": "1895",
+    "number_of_pages": 200,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10063-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10063-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10063-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027Bom-Crioulo\u0027 de Adolfo Caminha. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1895.",
+    "first_sentence": "Primeira frase do livro \u0027Bom-Crioulo\u0027 de Adolfo Caminha.",
+    "language": "por"
+  },
+  {
+    "key": "OL100064W",
+    "title": "O Mission\u00E1rio",
+    "authors": [
+      {
+        "key": "/authors/OL50064A",
+        "name": "Ingl\u00EAs de Sousa"
+      }
+    ],
+    "isbn": [
+      "3599335936",
+      "9784941977826"
+    ],
+    "publish_date": "1888",
+    "number_of_pages": 400,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/10064-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/10064-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/10064-L.jpg"
+    },
+    "subjects": [
+      "Fiction",
+      "Brazilian Literature"
+    ],
+    "description": "Descri\u00E7\u00E3o do livro \u0027O Mission\u00E1rio\u0027 de Ingl\u00EAs de Sousa. Uma obra cl\u00E1ssica da literatura brasileira publicada em 1888.",
+    "first_sentence": "Primeira frase do livro \u0027O Mission\u00E1rio\u0027 de Ingl\u00EAs de Sousa.",
+    "language": "por"
+  }
+]
