@@ -1,4 +1,4 @@
-# Playwright.NET - Workshop de Web Scraping
+# Criando Scrapers com Playwright para .NET
 
 Este repositório contém exemplos práticos de web scraping usando Playwright.NET, organizados em exercícios progressivos para desenvolvedores de nível intermediário.
 
